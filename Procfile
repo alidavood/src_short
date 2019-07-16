@@ -1,0 +1,1 @@
+web: gunicorn alma.wsgi --log-file -
